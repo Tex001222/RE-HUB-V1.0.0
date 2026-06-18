@@ -7,8 +7,6 @@
 
 > **Your central hub for Resident Evil 4 modding. Browse, download, and manage 70+ mods in one place.**
 
-![RE HUB Screenshot](screenshot.png)
-
 ## ✨ Features
 
 - 🔧 **70+ Mods** - Gameplay mods, texture packs, models
@@ -39,12 +37,3 @@
 4. Create an account or login
 5. Start browsing mods!
 
-## 🛠️ Tech Stack
-
-- **Frontend:** Tkinter (Custom Styled)
-- **Backend:** Supabase (PostgreSQL)
-- **Auth:** SHA-256 + Fernet Encryption
-- **Sounds:** Custom .vmc encrypted pack
-- **Updates:** Cloud-based via Supabase
-
-## 📁 Project Structure
