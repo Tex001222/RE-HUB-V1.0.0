@@ -31,7 +31,7 @@
 
 ## 📥 Installation
 
-1. Download `RE_HUB.exe` from [Releases](https://github.com/TEX-Rikka/RE-HUB/releases)
+1. Download `RE_HUB.rar` from [Releases](https://github.com/TEX-Rikka/RE-HUB/releases)
 2. Extract the ZIP file
 3. Run `RE_HUB.exe`
 4. Create an account or login
