@@ -16,7 +16,7 @@
 - 🔐 **Auto-Login** - Encrypted credential storage
 - 🎨 **Modern Dark UI** - Pink/Purple theme with animations
 - 🔊 **Sound Effects** - Professional encrypted sound pack
-- 🔄 **Auto-Updater** - Cloud-based updates via Supabase
+- 🔄 **Auto-Updater**
 - 👥 **Role System** - Owner, Admin, Moderator, Member
 - 🛡️ **Moderator Panel** - User management tools
 
